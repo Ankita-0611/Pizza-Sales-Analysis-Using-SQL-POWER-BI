@@ -39,8 +39,8 @@ This project is focused on examining key performance indicators (KPIs) and visua
 4. pizza_sales.csv - Data (Comma Seperated Values file)
 5. PROBLEM STATEMENT & INSIGHTS.pptx - PPT file of Problem statement and Sample Insights
 # Requirements
-Power BI Desktop (for viewing and interacting with the .pbix file)
-Microsoft Excel (for viewing the raw data file)
-Microsoft Word (for viewing the SQL Query file)
+1. Power BI Desktop (for viewing and interacting with the .pbix file)
+2. Microsoft Excel (for viewing the raw data file)
+3. Microsoft Word (for viewing the SQL Query file)
 
 If you have any questions or feedback, please feel free to contact me at yadav.ankita.0611@gmail.com
